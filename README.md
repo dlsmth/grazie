@@ -15,8 +15,9 @@ Icon:
 
 Screenshots:
 
-![web timer pwa screenshot](https://www.dalesmith.com/temp/grazie_screenshot_1.png)
-![web timer pwa screenshot](https://www.dalesmith.com/temp/grazie_screenshot_2.png)
-![web timer pwa screenshot](https://www.dalesmith.com/temp/grazie_screenshot_4.png)
+![graz!e pwa screenshot](https://www.dalesmith.com/temp/grazie_screenshot_1.png)
+![graz!e pwa screenshot](https://www.dalesmith.com/temp/grazie_screenshot_2.png)
+![graz!e pwa screenshot](https://www.dalesmith.com/temp/grazie_screenshot_3.png)
+![graz!e screenshot](https://www.dalesmith.com/temp/grazie_screenshot_4.png)
 
 [View Demo](https://www.dalesmith.com/grazie)
