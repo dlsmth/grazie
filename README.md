@@ -8,4 +8,15 @@ Super fast build, via concurrent design+development, from idea to implementation
 
 HTML, CSS, ReactJS
 
+Icon:
+
+![graz!e screenshot](http://www.dalesmith.com/temp/grazie_icon.png)
+
+
+Screenshots:
+
+![web timer pwa screenshot](https://www.dalesmith.com/temp/grazie_screenshot_1.png)
+![web timer pwa screenshot](https://www.dalesmith.com/temp/grazie_screenshot_2.png)
+![web timer pwa screenshot](https://www.dalesmith.com/temp/grazie_screenshot_4.png)
+
 [View Demo](https://www.dalesmith.com/grazie)
