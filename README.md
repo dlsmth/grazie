@@ -5,3 +5,5 @@ Graz!e is quick little art project and prototype to explore ways to highlight po
 In essence, the app allows for daily entries of positive thoughts, on good days. The app then stores the entry, along with a timestamp into an array, saved on local storage. On bad days, when nothing is going right, a tap on the sad face icon pulls and displays an entry at random, as a simple reminder that good days do exist and will come again. I chose to store the data locally, partly out of simplicity and speed, but also because I feel that data really only needs to live on the user's phone. Local storage will be deleted if not accessed for about a week, so it's a good incentive to keep making new entries, daily - one of the key elements of mindfulness.
 
 HTML, CSS, ReactJS
+
+[View Demo](https://www.dalesmith.com/grazie)
