@@ -12,7 +12,6 @@ Icon:
 
 ![graz!e screenshot](http://www.dalesmith.com/temp/grazie_icon.png)
 
-
 Screenshots:
 
 ![graz!e pwa screenshot](https://www.dalesmith.com/temp/grazie_screenshot_1.png)
